@@ -1,0 +1,22 @@
+{
+  "name": "aws-microservices",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "node": "nodejs20.x",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dynamoose": "^4.0.4",
+    "jsonwebtoken": "^9.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "nodemailer": "^7.0.10"
+  }
+}
