@@ -1,0 +1,227 @@
+[
+  {
+    "event_id": "67ef0fbdd770fabaeb03fe6c",
+    "category": "CAT 2",
+    "price": 145,
+    "max_num": 150,
+    "total_seats_assigned": 115,
+    "available_quantity": 106,
+    "_id": "67ef19941ee4e22b4ba3e2d7"
+  },
+  {
+    "event_id": "67ef1c7e1ee4e22b4ba3e571",
+    "category": "General Admission",
+    "price": 30,
+    "max_num": 100,
+    "total_seats_assigned": 81,
+    "available_quantity": 81,
+    "_id": "67ef1eea1ee4e22b4ba3e586"
+  },
+  {
+    "event_id": "67ef1c7e1ee4e22b4ba3e571",
+    "category": "Gold",
+    "price": 75,
+    "max_num": 120,
+    "total_seats_assigned": 107,
+    "available_quantity": 107,
+    "_id": "67ef1f991ee4e22b4ba3e58e"
+  },
+  {
+    "event_id": "67ef1d6c1ee4e22b4ba3e57b",
+    "category": "Regular",
+    "price": 20,
+    "max_num": 125,
+    "total_seats_assigned": 0,
+    "available_quantity": 0,
+    "_id": "67ef22761ee4e22b4ba3eb64"
+  },
+  {
+    "event_id": "67ef1dce1ee4e22b4ba3e57d",
+    "category": "Standard",
+    "price": 30,
+    "max_num": 50,
+    "total_seats_assigned": 49,
+    "available_quantity": 0,
+    "_id": "67f8b592ef560e332852f0e3"
+  },
+  {
+    "event_id": "67fb42baf39a2acfd04ca0af",
+    "category": "Standard",
+    "price": 20,
+    "max_num": 50,
+    "total_seats_assigned": 49,
+    "available_quantity": 49,
+    "_id": "67fb4739f39a2acfd04ca0c3"
+  },
+  {
+    "event_id": "67fdccff5bcc2dfd4f058a70",
+    "category": "Normal",
+    "price": 25,
+    "max_num": 100,
+    "total_seats_assigned": 35,
+    "available_quantity": 35,
+    "_id": "67fdd0675bcc2dfd4f058b58"
+  },
+  {
+    "event_id": "67ef1ce11ee4e22b4ba3e575",
+    "category": "Standard",
+    "price": 35,
+    "max_num": 150,
+    "total_seats_assigned": 120,
+    "available_quantity": 116,
+    "_id": "67ef20ff1ee4e22b4ba3e839"
+  },
+  {
+    "event_id": "67ef1ce11ee4e22b4ba3e575",
+    "category": "Royal",
+    "price": 120,
+    "max_num": 200,
+    "total_seats_assigned": 200,
+    "available_quantity": 192,
+    "_id": "67ef214b1ee4e22b4ba3e845"
+  },
+  {
+    "event_id": "67fb42baf39a2acfd04ca0af",
+    "category": "VIP",
+    "price": 50,
+    "max_num": 125,
+    "total_seats_assigned": 0,
+    "available_quantity": 0,
+    "_id": "67fb4713f39a2acfd04ca0bf"
+  },
+  {
+    "event_id": "67f977074af01a6fc87fb48f",
+    "category": "Normal",
+    "price": 20,
+    "max_num": 120,
+    "total_seats_assigned": 108,
+    "available_quantity": 108,
+    "_id": "67fdbe46900f96d5548889ee"
+  },
+  {
+    "event_id": "67ef0fbdd770fabaeb03fe6c",
+    "category": "Normal",
+    "price": 55,
+    "max_num": 100,
+    "total_seats_assigned": 81,
+    "available_quantity": 81,
+    "_id": "67ef19221ee4e22b4ba3e2c7"
+  },
+  {
+    "event_id": "67ef0fbdd770fabaeb03fe6c",
+    "category": "VVIP",
+    "price": 120,
+    "max_num": 85,
+    "total_seats_assigned": 75,
+    "available_quantity": 75,
+    "_id": "67ef19491ee4e22b4ba3e2cf"
+  },
+  {
+    "event_id": "67ef0fbdd770fabaeb03fe6c",
+    "category": "CAT 1",
+    "price": 135,
+    "max_num": 95,
+    "total_seats_assigned": 83,
+    "available_quantity": 81,
+    "_id": "67ef196d1ee4e22b4ba3e2d3"
+  },
+  {
+    "event_id": "67ef1ce11ee4e22b4ba3e575",
+    "category": "Superior",
+    "price": 88,
+    "max_num": 160,
+    "total_seats_assigned": 150,
+    "available_quantity": 150,
+    "_id": "67ef21341ee4e22b4ba3e841"
+  },
+  {
+    "event_id": "67ef1d6c1ee4e22b4ba3e57b",
+    "category": "Enhanced",
+    "price": 50,
+    "max_num": 150,
+    "total_seats_assigned": 0,
+    "available_quantity": 0,
+    "_id": "67ef228c1ee4e22b4ba3eb68"
+  },
+  {
+    "event_id": "67ef1d6c1ee4e22b4ba3e57b",
+    "category": "Elite",
+    "price": 75,
+    "max_num": 155,
+    "total_seats_assigned": 0,
+    "available_quantity": 0,
+    "_id": "67ef229d1ee4e22b4ba3eb6c"
+  },
+  {
+    "event_id": "67f977074af01a6fc87fb48f",
+    "category": "VIP",
+    "price": 50,
+    "max_num": 200,
+    "total_seats_assigned": 0,
+    "available_quantity": 0,
+    "_id": "680b9cf034b2368ac7d200e4"
+  },
+  {
+    "event_id": "67ef0fbdd770fabaeb03fe6c",
+    "category": "VIP",
+    "price": 65,
+    "max_num": 95,
+    "total_seats_assigned": 81,
+    "available_quantity": 77,
+    "_id": "67ef19301ee4e22b4ba3e2cb"
+  },
+  {
+    "event_id": "67ef1c7e1ee4e22b4ba3e571",
+    "category": "Silver",
+    "price": 60,
+    "max_num": 155,
+    "total_seats_assigned": 147,
+    "available_quantity": 147,
+    "_id": "67ef1f711ee4e22b4ba3e58a"
+  },
+  {
+    "event_id": "67ef1c7e1ee4e22b4ba3e571",
+    "category": "Platinum",
+    "price": 100,
+    "max_num": 165,
+    "total_seats_assigned": 158,
+    "available_quantity": 158,
+    "_id": "67ef1fb81ee4e22b4ba3e592"
+  },
+  {
+    "event_id": "67ef1ce11ee4e22b4ba3e575",
+    "category": "Premium",
+    "price": 55,
+    "max_num": 120,
+    "total_seats_assigned": 108,
+    "available_quantity": 108,
+    "_id": "67ef211f1ee4e22b4ba3e83d"
+  },
+  {
+    "event_id": "67ef1dce1ee4e22b4ba3e57d",
+    "category": "VIP",
+    "price": 50,
+    "max_num": 100,
+    "total_seats_assigned": 35,
+    "available_quantity": 8,
+    "_id": "67f8d355ef560e332852f0f7"
+  },
+  {
+    "event_id": "67ef1dce1ee4e22b4ba3e57d",
+    "category": "VIP 2",
+    "price": 120,
+    "max_num": 65,
+    "total_seats_assigned": 41,
+    "available_quantity": 0,
+    "_id": "67f8e0f2ef560e332852f13a"
+  },
+  {
+    "event_id": "67f977074af01a6fc87fb48f",
+    "category": "Standard",
+    "price": 25,
+    "max_num": 125,
+    "total_seats_assigned": 73,
+    "available_quantity": 73,
+    "_id": "67f979b24af01a6fc87fb4a5"
+  }
+]

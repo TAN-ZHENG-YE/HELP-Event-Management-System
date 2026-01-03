@@ -1,0 +1,60 @@
+[{
+  "_id": "67ef1c7e1ee4e22b4ba3e571",
+  "organizer_name": "United Co",
+  "event_name": "Leadership & Communication Workshop",
+  "event_date_time": "2025-11-23T10:00",
+  "event_duration": "1:35",
+  "event_description": "Leadership fundamentals guide you to understand different leadership styles, build your personal leadership brand, and develop your emotional intelligence.\r\nEffective communication strategies such as mastering active listening, improving your verbal and written communication, and learning how to give and receive constructive feedback are covered.\r\nBuilding high-performing teams involves discovering techniques for fostering collaboration, resolving conflict, and creating a positive and productive team environment.\r\nPublic speaking and presentation skills development helps you gain confidence in presenting your ideas, engaging your audience, and delivering impactful presentations.\r\nThis workshop is ideal for individuals seeking to enhance their leadership and communication skills, professionals looking to advance their careers and take on leadership roles, and managers and team leaders seeking to improve their team's performance and collaboration.",
+  "event_image": "/image/uploads/a805c356d84eb1941edd446e7688befd.jpg",
+  "is_public": true
+},
+{
+  "_id": "67f977074af01a6fc87fb48f",
+  "organizer_name": "Dutch Unicorn",
+  "event_name": "Hari Raya Night",
+  "event_date_time": "2025-12-20T18:00",
+  "event_duration": "3:30",
+  "event_description": "Come and celebrate Hari Raya Vibes",
+  "event_image": "/image/uploads/images.jpeg",
+  "is_public": false
+},
+{
+  "_id": "67ef0fbdd770fabaeb03fe6c",
+  "organizer_name": "Dutch Unicorn",
+  "event_name": "Movie Night - Home Alone 2",
+  "event_date_time": "2025-10-30T20:30",
+  "event_duration": "2:35",
+  "event_description": "Get ready for a night of cinematic magic under the stars (or indoors, depending on the weather)! Join us for a cozy and fun-filled Movie Night, where we'll be enjoying a captivating film, delicious snacks, and great company.\r\nWhat to Expect:\r\nFeature Film: We'll be screening Home Alone 2, a funny film that promises hilarious misadventures in New York City. Get ready for plenty of slapstick comedy and heartwarming family moments.\r\nDelicious Treats: Indulge in a variety of tasty snacks, including popcorn, candy, pizza, and cookies. Feel free to bring your own favorite treats to share!\r\nGood Company: Relax, unwind, and enjoy the movie with friends and fellow film enthusiasts. It's the perfect opportunity to catch up, laugh, and create lasting memories.",
+  "event_image": "/image/uploads/HomeAlone2.jpg",
+  "is_public": true
+},
+{
+  "_id": "67ef1dce1ee4e22b4ba3e57d",
+  "organizer_name": "United Co",
+  "event_name": "Wonderful Public Speaking Workshop",
+  "event_date_time": "2025-12-05T08:30",
+  "event_duration": "2:00",
+  "event_description": "This workshop is designed to help you conquer your fear of public speaking and become a confident and engaging communicator. You'll learn practical techniques and strategies to improve your delivery, captivate your audience, and leave a lasting impression.\r\nKey Takeaways:\r\nMaster the fundamentals of public speaking: Understand the elements of effective communication, including voice projection, body language, and audience engagement.\r\nDevelop your stage presence: Learn how to project confidence, overcome nerves, and command attention.\r\nCraft compelling presentations: Develop a clear structure for your speeches, write engaging content, and use visual aids effectively.\r\nPractice and refine your skills: Participate in interactive exercises and receive personalized feedback to enhance your delivery.\r\nThis workshop is ideal for:\r\nIndividuals who want to overcome their fear of public speaking.\r\nProfessionals who need to present confidently in meetings, conferences, or sales pitches.\r\nAnyone who wants to improve their communication skills and become a more effective speaker.\r\nBy the end of this workshop, you will be able to:\r\nDeliver clear, concise, and engaging presentations.\r\nConnect with your audience and build rapport.\r\nUse your voice and body language effectively.\r\nHandle Q&A sessions with confidence.\r\nCraft compelling speeches that leave a lasting impact.\r\nJoin us for this empowering workshop and unlock your potential as a confident and effective public speaker!",
+  "event_image": "/image/uploads/08d37b1920f98a463870a4bf6d1a2d6e.jpg",
+  "is_public": false
+},
+{
+  "_id": "67fdccff5bcc2dfd4f058a70",
+  "organizer_name": "Dutch Unicorn",
+  "event_name": "Zootopia - 2 Movie Night",
+  "event_date_time": "2025-11-26T10:00",
+  "event_duration": "2:00",
+  "event_description": "Zootopia (titled Zootropolis or Zoomania in various regions) is an American animated buddy cop comedy film produced by Walt Disney Animation Studios. Directed by Byron Howard and Rich Moore from a screenplay by Jared Bush and Phil Johnston, the film stars the voices of Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J. K. Simmons, Octavia Spencer, Alan Tudyk, and Shakira. Its plot follows a rookie police officer rabbit and a con artist fox as they work together to uncover a conspiracy involving the disappearance of predators.",
+  "event_image": "/image/uploads/artificial-intelligence.jpg",
+  "is_public": true
+},
+{
+  "_id": "67ef1ce11ee4e22b4ba3e575",
+  "organizer_name": "United Co",
+  "event_name": "Explore & Embrace Turkish Culture",
+  "event_date_time": "2025-10-22T09:45",
+  "event_duration": "2:30",
+  "event_description": "Embark on a journey of discovery and immerse yourself in the vibrant tapestry of Turkish culture!\r\nThis captivating event will transport you to the heart of Turkey, where you'll experience its rich history, traditions, and warm hospitality. Get ready to:\r\nSavor authentic Turkish cuisine: Indulge in a delectable feast of traditional dishes, from savory kebabs to sweet baklava, prepared by renowned chefs.\r\nExplore the wonders of Istanbul: Discover the iconic Hagia Sophia, the magnificent Blue Mosque, and the bustling Grand Bazaar.\r\nExperience the vibrant art scene: Immerse yourself in the world of Turkish calligraphy, ceramics, and textiles, and witness the artistry of local artisans.\r\nLearn the graceful rhythms of Turkish dance: Join a workshop and learn the mesmerizing steps of traditional dances like the \"Halay\" and the \"Horon.\"\r\nEngage in lively conversation: Connect with local Turkish speakers and practice your language skills in a friendly and supportive environment.\r\nThis event is perfect for:\r\nTravelers seeking an authentic cultural experience.\r\nFood enthusiasts eager to explore new flavors.\r\nHistory buffs fascinated by the Ottoman Empire.\r\nArt lovers seeking inspiration in diverse artistic traditions.\r\nLanguage learners wanting to practice their Turkish skills.",
+  "event_image": "/image/uploads/Turkish Tapestry_ Rich Cultural DÃ©cor.jpg",
+  "is_public": true
+}]

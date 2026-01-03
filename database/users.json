@@ -1,0 +1,76 @@
+[{
+  "_id": "67cdc74fbea74dbd8382f951",
+  "user_name": "Thomas",
+  "email": "zhengyetan8@gmail.com",
+  "password": "$2b$10$hsT.Wizpl.k1XZQd3A4.ZOfgoh1W6KWls/LxyBxEKHhD5FN7gQEW.",
+  "phone_num": "0123567788",
+  "user_type": "organizer",
+  "organization_name": "Help Uni",
+  "first_time_login": false
+},
+{
+  "_id": "67cdcff8bea74dbd8382f97c",
+  "user_name": "user1",
+  "email": "user1@gmail.com",
+  "password": "$2b$10$eVEuvdD8XbtbLM7zXeMfzeLQXrU0bHLf0YcMIMGf0sJh4hDDi9jC.",
+  "phone_num": "013222556",
+  "user_type": "attendee",
+  "first_time_login": false
+},
+{
+  "_id": "67ce61b295ae4ac9c69a4012",
+  "user_name": "ZX",
+  "email": "zxianyap@gmail.com",
+  "password": "$2b$10$EwL916CownR3BckNvFLTuO0lQTYIUUH5xedgr1fo1/0v1qT4UGjqe",
+  "phone_num": "01234567890",
+  "user_type": "organizer",
+  "organization_name": "Help Uni",
+  "first_time_login": true
+},
+{
+  "_id": "67e3d7174d5d1311222900fb",
+  "user_name": "kj",
+  "email": "kj010304@gmail.com",
+  "password": "$2b$10$MTkQzGv7wb5IcAbTAyeqgOQ05mLxamtEVwNFrzXReIG.t9z.6ChEy",
+  "phone_num": "",
+  "user_type": "organizer",
+  "first_time_login": false,
+  "organization_name": "Dutch Unicorn"
+},
+{
+  "_id": "67d8eb87d721905a7855c646",
+  "user_name": "ZY",
+  "email": "zhengyiyap69@gmail.com",
+  "password": "$2b$10$IelWL160PsmVOcHCG2wjQO5nXFUzxO6nCyjKjePBynlI4HM.puvua",
+  "phone_num": "",
+  "user_type": "organizer",
+  "organization_name": "Bee Swam",
+  "first_time_login": true
+},
+{
+  "_id": "67cbf1b0e9446e0c9c1d2e68",
+  "user_name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$H7eFWRpaIO/fKroiWM6QYuMhUzkOppnhPKJ5gcbz2Z/UeAtl7/GPG",
+  "user_type": "admin",
+  "first_time_login": false,
+  "phone_num": "0133333333"
+},
+{
+  "_id": "67cfa946b2d29d8d07c0ffd3",
+  "user_name": "john",
+  "email": "john@gmail.com",
+  "password": "$2b$10$dMiPweT69v/xV0dAt9SmuuAxWjFX5CckhIPD12J4eQb/njX7/.KOq",
+  "phone_num": "",
+  "user_type": "attendee",
+  "first_time_login": false
+},
+{
+  "_id": "682ea2d56387e15d660674c6",
+  "user_name": "user",
+  "email": "user@gmail.com",
+  "password": "$2b$10$t7YouLjAKfqRTzMUQMVegOQKLbzHT4/ZWUHj2juQt2GvO2cwvfan.",
+  "phone_num": "",
+  "user_type": "attendee",
+  "first_time_login": false
+}]

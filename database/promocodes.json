@@ -1,0 +1,65 @@
+[
+  {
+    "code": "HELP2025",
+    "discount_percentage": 50,
+    "expiry_date": "2025-04-30T00:00:00.000Z",
+    "usage_limit": 7,
+    "promo_status": true,
+    "event_id": "67ef1ce11ee4e22b4ba3e575",
+    "_id": "67ef1b1c1ee4e22b4ba3e532"
+  },
+  {
+    "code": "TURKISH25",
+    "discount_percentage": 60,
+    "expiry_date": "2025-04-18T00:00:00.000Z",
+    "usage_limit": 19,
+    "promo_status": true,
+    "event_id": "67ef1ce11ee4e22b4ba3e575",
+    "_id": "67ef223d1ee4e22b4ba3eb5b"
+  },
+  {
+    "code": "WORKSHOP 2025",
+    "discount_percentage": 25,
+    "expiry_date": "2025-05-08T00:00:00.000Z",
+    "usage_limit": 20,
+    "promo_status": true,
+    "event_id": "67ef1dce1ee4e22b4ba3e57d",
+    "_id": "67f8efbaef560e332852f1d6"
+  },
+  {
+    "code": "RAYA25",
+    "discount_percentage": 35,
+    "expiry_date": "2025-04-19T00:00:00.000Z",
+    "usage_limit": 20,
+    "promo_status": true,
+    "event_id": "67f977074af01a6fc87fb48f",
+    "_id": "67f97d514af01a6fc87fb4ed"
+  },
+  {
+    "code": "12345",
+    "discount_percentage": 55,
+    "expiry_date": "2025-04-17T00:00:00.000Z",
+    "usage_limit": 50,
+    "promo_status": true,
+    "event_id": "67ef1c7e1ee4e22b4ba3e571",
+    "_id": "67ef20cf1ee4e22b4ba3e831"
+  },
+  {
+    "code": "LEADER898",
+    "discount_percentage": 35,
+    "expiry_date": "2025-04-19T00:00:00.000Z",
+    "usage_limit": 25,
+    "promo_status": true,
+    "event_id": "67ef1c7e1ee4e22b4ba3e571",
+    "_id": "67ef20af1ee4e22b4ba3e82c"
+  },
+  {
+    "code": "ZOO2025",
+    "discount_percentage": 50,
+    "expiry_date": "2025-04-26T00:00:00.000Z",
+    "usage_limit": 10,
+    "promo_status": true,
+    "event_id": "67fdccff5bcc2dfd4f058a70",
+    "_id": "67fdceeb5bcc2dfd4f058b12"
+  }
+]
